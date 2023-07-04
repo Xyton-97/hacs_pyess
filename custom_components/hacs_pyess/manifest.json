@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@Xyton-97"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/Xyton-97/hacs_pyess",
+  "domain": "hacs_pyess",
+  "iot_class": "local_polling",
+  "name": "HACS Pyess",
+  "requirements": [],
+  "version": "0.1.0"
+}
